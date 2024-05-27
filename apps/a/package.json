@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@amplitude/analytics-types": "2.5.0",
-    "@graphql-codegen/typescript-react-query": "6.0.0"
+    "@graphql-codegen/typescript-react-query": "6.1.0"
   },
   "keywords": [],
   "author": "",
