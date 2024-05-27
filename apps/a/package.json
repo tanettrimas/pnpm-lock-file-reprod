@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@amplitude/analytics-types": "2.5.0"
+    "@amplitude/analytics-types": "2.5.0",
+    "@graphql-codegen/typescript-react-query": "6.0.0"
   },
   "keywords": [],
   "author": "",
