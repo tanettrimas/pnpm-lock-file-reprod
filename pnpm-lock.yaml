@@ -1,0 +1,24 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  apps/a:
+    devDependencies:
+      '@amplitude/analytics-types':
+        specifier: 2.5.0
+        version: 2.5.0
+
+packages:
+
+  '@amplitude/analytics-types@2.5.0':
+    resolution: {integrity: sha512-aY69WxUvVlaCU+9geShjTsAYdUTvegEXH9i4WK/97kNbNLl4/7qUuIPe4hNireDeKLuQA9SA3H7TKynuNomDxw==}
+
+snapshots:
+
+  '@amplitude/analytics-types@2.5.0': {}
